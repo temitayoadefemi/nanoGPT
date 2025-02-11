@@ -10,7 +10,7 @@ log_interval = 10 # don't print too too often
 always_save_checkpoint = False
 
 wandb_log = False # override via command line if you like
-wandb_project = 'lyrics-char'
+wandb_project = 'lyrics'
 wandb_run_name = 'mini-gpt'
 
 dataset = 'lyrics'
